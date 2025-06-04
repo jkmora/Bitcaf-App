@@ -1,0 +1,6 @@
+@bitcaf.auth.wapi_HostAddress = http://localhost:5078
+
+GET {{bitcaf.auth.wapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

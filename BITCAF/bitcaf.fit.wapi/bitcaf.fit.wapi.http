@@ -1,0 +1,6 @@
+@bitcaf.fit.wapi_HostAddress = http://localhost:5266
+
+GET {{bitcaf.fit.wapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

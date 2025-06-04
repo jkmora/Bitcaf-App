@@ -1,0 +1,6 @@
+@bitcaf.gateway_HostAddress = http://localhost:5205
+
+GET {{bitcaf.gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
